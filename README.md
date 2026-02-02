@@ -2,7 +2,7 @@
   <img src="./githubProfile.png" alt="Pinkuna Prusty Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Sarthak</h1>
+<h1 align="center">Hey there 👋, I'm Pinku</h1>
 <h3 align="center">Java | Spring Boot | Full-Stack Developer</h3>
 
 <p align="center">
