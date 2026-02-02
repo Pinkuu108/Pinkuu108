@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./githubProfile.png" alt="Pinkuna Prusty Banner" width="100%" />
+  <img src="./github.png" alt="Pinkuna Prusty Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Pinku</h1>
