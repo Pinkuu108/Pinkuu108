@@ -21,7 +21,7 @@
 - 🗄️ Strong understanding of **SQL & Database Design**
 - ☁️ Currently exploring **AWS & Docker**
 - 🐧 Comfortable working in **Linux environments**
-- 🚀 Passionate about building **scalable backend applications**
+- 🚀 Passionate about building scalable backend applications
 
 ---
 
@@ -35,13 +35,6 @@
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pinkuu108&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinkuu108&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
