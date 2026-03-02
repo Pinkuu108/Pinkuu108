@@ -28,16 +28,9 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,linux,aws,docker,git,github,typescript,angular,vscode,maven,npm" />
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,linux,aws,docker,git,github,typescript,angular,vscode,maven,npm,postman" />
 </p>
 
 ---
@@ -49,6 +42,15 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinkuu108&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 - 🔗 GitHub: https://github.com/Pinkuu108  
 - 💼 LinkedIn: https://www.linkedin.com/in/pinkuna-prusty-55b487273/
+
+---
